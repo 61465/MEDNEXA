@@ -1,0 +1,16 @@
+# Keep this repo lean — only showcase assets land here.
+# The engine, strategy, deck, and sales folders live privately
+# at D:/project/wa/mostashfa/mednexa and must never be pushed here.
+
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.local
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+*.log
+dist/
+build/

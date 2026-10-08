@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="MEDNEXA">
+  <title>MEDNEXA — Connecting Healthcare</title>
+  <!-- N-Link icon: two circles connected by diagonal -->
+  <g fill="none" stroke="#00B4A6" stroke-width="4" stroke-linecap="round">
+    <!-- Left circle -->
+    <circle cx="16" cy="20" r="10" fill="#00B4A6"/>
+    <!-- Right circle -->
+    <circle cx="56" cy="60" r="10" fill="#0A2540" stroke="#00B4A6"/>
+    <!-- Diagonal connector forming the N -->
+    <line x1="16" y1="30" x2="16" y2="60" stroke="#0A2540" stroke-width="4"/>
+    <line x1="16" y1="30" x2="56" y2="50" stroke="#00B4A6" stroke-width="4"/>
+    <line x1="56" y1="20" x2="56" y2="50" stroke="#0A2540" stroke-width="4"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="85" y="52" font-family="Inter, -apple-system, sans-serif"
+        font-weight="700" font-size="36" letter-spacing="-0.5"
+        fill="#0A2540">MEDNEXA</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="MEDNEXA N-Link">
+  <title>MEDNEXA</title>
+  <rect width="80" height="80" rx="14" fill="#0A2540"/>
+  <g fill="none" stroke="#00B4A6" stroke-width="5" stroke-linecap="round">
+    <circle cx="22" cy="24" r="9" fill="#00B4A6"/>
+    <circle cx="58" cy="56" r="9" fill="#FAFBFC" stroke="#00B4A6"/>
+    <line x1="22" y1="33" x2="22" y2="56"/>
+    <line x1="22" y1="33" x2="58" y2="47"/>
+    <line x1="58" y1="24" x2="58" y2="47"/>
+  </g>
+</svg>
